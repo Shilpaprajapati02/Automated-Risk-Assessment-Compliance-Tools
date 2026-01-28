@@ -1,2 +1,2 @@
-# Automated-Risk-Assessment-Compliance-Tools
-A web-based application built using Python (Flask), HTML, CSS, JavaScript, and SQLite to automate organizational risk assessment and compliance tracking. The system enables users to identify assets, analyze threats and vulnerabilities, calculate risk scores, and monitor compliance
+#Compliance Management System for SMBs
+A web-based tool built with Python (Flask), HTML/CSS/JS, and SQLite to help small businesses track compliance, manage policies, upload evidence, and monitor audit readiness for standards like ISO 27001, GDPR, and PCI-DSS
